@@ -1,0 +1,36 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T00:04:30Z",
+  "IdClaims": [
+    {
+      "Claim": "gh:majorlinux"
+    },
+    {
+      "Claim": "mdon:@majorlinux@toot.majorshouse.com"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "spout:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "075eb89c0273e09ea3f9d1cd",
+    "Timestamp": "2023-04-06T00:06:31Z",
+    "Signature": "5b8b0435d42e8aea6bb4a3d55a16dca513ce47b23eef8a0462a3ddc4f279462c0b6a1acf18d7dd97d1e575fefdc2d5c7df4765ed8a94812f9793208819c18f22d2e2c6a906c77062ad28e35a672a6c4f081c2b743ec4fa2b67809feef852ff693b4afe5e7b793720331f5f712f19decf074c14bfa372e1e29cf788b9d57b38883483415ec5e598989c0635cc73d5bff4f0020040f68ac18881d65272ec9a0fa725c5e6609282d9fa74529705b06148a73ba5e091bf6aa4e89a6063207522ee14bebed0966e183b11cb9cf64b508fcf1bac1b28ad05e9f8c60d63f90d425a6c5217fb1aa398d979f66333a69cc217ba75c880df65f460ea3630d5e16536e46966"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "62ba92310630d02720a7c3491e0d7f0bbda3bc3d166b334b66bf93f2c81e0c33",
+  "ContentToHash": "v1|gh:majorlinux,mdon:@majorlinux@toot.majorshouse.com,med:no-account,post:no-account,spout:no-account,ss:no-account|2023-04-06T00:04:30Z"
+}
